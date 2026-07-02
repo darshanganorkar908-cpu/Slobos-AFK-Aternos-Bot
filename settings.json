@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":  "MONEYHIEST7.aternos.me"
+    "ip":  "MONEYHIEST7.aternos.me",
     "port":  52303
     "version": "26.1.2 (72)  ",
     "try-creative": true
